@@ -18,3 +18,4 @@ www.baidu.com
 
 新增了几句话  
 hello my git！！！
+clone 了
